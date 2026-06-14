@@ -11,11 +11,6 @@ Personal e-Portfolio for **TTTM2213 Mobile App Programming**, Software Engineeri
 eportfolio_a210615/
 ├── index.html          ← The e-Portfolio site
 ├── screenshot/         ← Lab & project screenshots
-├── instruction/        ← Course PDF instructions
-├── Lab1/ … Lab4/       ← Lab source code
-├── A210615_AniqHaikal_DrNelson_Lab05/   ← Lab 5 (Room)
-└── Project2_Humanity/  ← Final project source
-```
 
 ## 🚀 Deploy to GitHub Pages
 
