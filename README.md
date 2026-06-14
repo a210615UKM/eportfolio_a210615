@@ -12,21 +12,6 @@ eportfolio_a210615/
 ├── index.html          ← The e-Portfolio site
 ├── screenshot/         ← Lab & project screenshots
 
-## 🚀 Deploy to GitHub Pages
-
-1. Create a new GitHub repository (e.g. `eportfolio`).
-2. Push this folder to the repo:
-   ```bash
-   git init
-   git add index.html screenshot/ README.md
-   git commit -m "Initial e-Portfolio"
-   git branch -M main
-   git remote add origin https://github.com/<your-username>/eportfolio.git
-   git push -u origin main
-   ```
-3. On GitHub: **Settings → Pages → Source: `main` / root → Save**.
-4. Your portfolio will be live at:
-   `https://<your-username>.github.io/eportfolio/`
 
 ## 🔗 Quick Links
 
